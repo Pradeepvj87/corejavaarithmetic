@@ -15,6 +15,8 @@ List<Integer> li = new ArrayList<Integer>();
 	li.add(80);
 	li.add(56);
 	li.add(506);
+	li.add(200);
+	li.add(540);
 for (Integer x : li) {
 	System.out.println(x);
 }
